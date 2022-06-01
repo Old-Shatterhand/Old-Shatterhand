@@ -46,4 +46,5 @@ My name is Roman Joeres. I'm PhD student in the [kalininalab](https://www.helmho
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=old-shatterhand&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Old-Shatterhands's Github Stats"><br><br>
   Visit me on<br>
   <a href="https://twitter.com/romanjoeres" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+ <!--a href="https://scholar.google.com/citations?user=wou9eEMAAAAJ&hl=en"-->
 </div>
