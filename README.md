@@ -29,6 +29,7 @@ My name is Roman Joeres. I'm PhD student in the [kalininalab](https://www.helmho
  - Running
  - Cycling
  - Swimming
+ - Climbing/Bouldering
  - Dan Brown and Karl May (obviously :wink:)
 
 ## Some links to my recent work
