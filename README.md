@@ -24,19 +24,20 @@ My name is Roman Joeres. I'm PhD student in the [kalininalab](https://www.helmho
  - all other types of Deep Learning
 
 ## Personal Interests
- - Programming
- - Chess
- - Running
- - Cycling
- - Swimming
  - Climbing/Bouldering
+ - Chess
+ - Programming
+ - Cycling
+ - Running
+ - Swimming
  - Dan Brown and Karl May (obviously :wink:)
 
 ## Some links to my recent work
 
 ###### Work Projects
- * [rindti](https://github.com/ilsenatorov/rindti): A GNN project to predict interactions between proteins and ligands
+ * [DataSAIL](https://github.com/kalininalab/DataSAIL): A Python framework to compute biochemically informed splits of datasets for ML
  * [GlyLES](https://github.com/kalininalab/GlyLES): Grammar based parsing of Glycans in IUPAC notation into SMILES
+ * [rindti](https://github.com/ilsenatorov/rindti): A GNN project to predict interactions between proteins and ligands
 
 ###### Hobby Projects
  * [pytest_assertcount](https://github.com/Old-Shatterhand/pytest_assertcount): A plugin for pytest to count the actual number of asserts performed during a pytest run.
