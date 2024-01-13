@@ -41,6 +41,7 @@ My name is Roman Joeres. I'm PhD student in the [kalininalab](https://www.helmho
 
 ###### Hobby Projects
  * [pytest_assertcount](https://github.com/Old-Shatterhand/pytest_assertcount): A plugin for pytest to count the actual number of asserts performed during a pytest run.
+ * [PyWLK](https://github.com/Old-Shatterhand/pywlk): A Python package implementing Weisfeiler-Lehman graph kernels and a template for professional python packages
  * [ProtViewer](https://github.com/Old-Shatterhand/ProtViewer): View the activities in a protein in a browser interface in 3D.
  * [SortSolver](https://github.com/Old-Shatterhand/SortSolver): Solve sorting games of mobile phones in the browser
 <be>
