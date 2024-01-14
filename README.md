@@ -34,12 +34,17 @@ My name is Roman Joeres. I'm PhD student in the [kalininalab](https://www.helmho
 
 ## Some links to my recent work
 
-###### Work Projects
+#### Work Projects
  * [DataSAIL](https://github.com/kalininalab/DataSAIL): A Python framework to compute biochemically informed splits of datasets for ML
  * [GlyLES](https://github.com/kalininalab/GlyLES): Grammar based parsing of Glycans in IUPAC notation into SMILES
- * [rindti](https://github.com/ilsenatorov/rindti): A GNN project to predict interactions between proteins and ligands
 
-###### Hobby Projects
+#### Bachelor Thesis
+ * [MSADRL](https://github.com/Old-Shatterhand/MSADRL): The code of my bachelors thesis 
+
+#### Master Thesis
+ * [GraphPLI](https://github.com/kalininalab/GraphPLI): A fully GNN-based framework to predict interactions between proteins and ligands. The branch `thesis_roman` covers the code of my Masters Thesis.
+
+#### Hobby Projects
  * [pytest_assertcount](https://github.com/Old-Shatterhand/pytest_assertcount): A plugin for pytest to count the actual number of asserts performed during a pytest run.
  * [PyWLK](https://github.com/Old-Shatterhand/pywlk): A Python package implementing Weisfeiler-Lehman graph kernels and a template for professional python packages
  * [ProtViewer](https://github.com/Old-Shatterhand/ProtViewer): View the activities in a protein in a browser interface in 3D.
